@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=267A76&background=33FF3100&center=true&vCenter=true&width=435&lines=Hello+,+I+am+Keval+Hingu+,A+Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Keval+Hingu+,+I+am+Backend+developer)](https://git.io/typing-svg)
 
 - 👨 I'm Keval Hingu, a backend developer.
 - 🔭 I’m currently working on a personal project.
