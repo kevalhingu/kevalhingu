@@ -1,6 +1,6 @@
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7950A&center=true&vCenter=true&multiline=true&width=1000&lines=Hello+I+am+Keval+Hingu+,+I+am+Backend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1001&color=380CF7&repeat=false&width=435&height=52&lines=Hello+I+am+keval+Hingu+%2C+I+am+Backend+developer)](https://git.io/typing-svg)
 
 ---
 - 👨 I'm Keval Hingu, a backend developer.
