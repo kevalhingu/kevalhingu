@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Keval+Hingu+,+I+am+Backend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Keval+Hingu;I+am+Backend+developer)](https://git.io/typing-svg)
 
 - 👨 I'm Keval Hingu, a backend developer.
 - 🔭 I’m currently working on a personal project.
