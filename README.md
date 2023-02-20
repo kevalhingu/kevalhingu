@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a personal project.
 - 💼 I'm looking for a job.
 - 👯 I’m looking to collaborate on any Front-end of Full Stack Project/s.
-- 📚 I’m currently learning React Native
+- 📚 I’m currently learning React Native.
 
 ### Find me on Social Media
 <p align="center">
