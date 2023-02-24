@@ -41,7 +41,7 @@
  
 </p>
 
-### 🧰 Frameworks and libraries
+### 🧰 Frameworks and libraries 
 
 <p>
     <a href="#"><img alt="django" src="https://img.shields.io/badge/django-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
