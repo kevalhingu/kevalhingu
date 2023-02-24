@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7950A&center=true&vCenter=true&multiline=true&width=1000&lines=Hello+I+am+keval+Hingu+%2C+I+am+Backend+developer+.)](https://git.io/typing-svg)
 ---
 - 👨 I'm Keval Hingu, a backend developer.
-- 🔭 I’m currently working on a personal project.
+- 🔭 I’m currently working on a personal project. 
 - 💼 I'm looking for a job.
 - 👯 I’m looking to collaborate on any Front-end of Full Stack Project/s.
 - 📚 I’m currently learning React Native.
