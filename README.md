@@ -8,7 +8,7 @@
 - 📚 I’m currently learning React Native.
 
 ### Find me on Social Media 
-
+ 
 <p align="center">
  
 <a target="_blank" href="https://www.linkedin.com/in/keval-hingu-499211219/"><img width="50px" src="https://i.ibb.co/y5PbksN/Linkedin.png" alt="Linkedin" border="0"></a>
