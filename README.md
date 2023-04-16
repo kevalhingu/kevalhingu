@@ -51,6 +51,10 @@
 
 </p>
 
+   
+   [![keval's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kevalhingu&bg_color=000000&color=c87414&line=0a9948&point=ffffff&area=true&hide_border=true)](https://github.com/kevalhingu/github-readme-activity-graph)
+   
+
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/kevalhingu/count.svg)
 
