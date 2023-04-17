@@ -26,7 +26,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevalhingu&theme=chartreuse-dark&layout=compact)
 
 ## 🛠️ Tools 
-
+ 
 
 ### 👨‍💻 Programming and markup languages.
 
