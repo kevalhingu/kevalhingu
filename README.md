@@ -3,7 +3,7 @@
 ---   
 - 👨 I'm Keval Hingu, a backend developer.
 - 🔭 I’m currently working on a personal project. 
-- 💼 I'm looking for a job.
+- 💼 I'm looking for a job. 
 - 👯 I’m looking to collaborate on any Front-end of Full Stack Project/s. 
 - 📚 I’m currently learning React Native.
  
