@@ -1,11 +1,10 @@
 --- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7950A&center=true&vCenter=true&multiline=true&width=1000&lines=Hello+I+am+keval+Hingu+%2C+I+am+Backend+developer+.)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7950A&center=true&vCenter=true&multiline=true&width=1000&lines=Hello+I+am+keval+Hingu+%2C+I+am+Cloud+enthusiast+.)](https://git.io/typing-svg)  
 ---   
-- 👨 I'm Keval Hingu, a backend developer.
+- 👨 I'm Keval Hingu, a DevOps enthusiast.
 - 🔭 I’m currently working on a personal project. 
 - 💼 I'm looking for a job. 
-- 👯 I’m looking to collaborate on any Front-end of Full Stack Project/s. 
-- 📚 I’m currently learning React Native.
+- 📚 I’m currently learning Linux and networking.
  
 ### Find me on Social Media 
  
@@ -13,6 +12,7 @@
  
 <a target="_blank" href="https://www.linkedin.com/in/keval-hingu-499211219/"><img width="50px" src="https://i.ibb.co/y5PbksN/Linkedin.png" alt="Linkedin" border="0"></a>
 <a target="_blank" href="https://instagram.com/keval_hingu"><img width="50px" src="https://i.ibb.co/HNZ3rrt/Insta-Gram.png" alt="InstaGram" border="0"></a>
+<a target="_blank" href="https://medium.com/@kevalhingu20"><img width="50px" src="https://cdn.freebiesupply.com/images/thumbs/2x/medium-icon-white-on-black.png" alt="medium" border="0"></a>
  </p>
   
 
